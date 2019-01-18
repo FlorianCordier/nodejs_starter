@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.4",
+    "sass": "^1.16.1",
+    "request": "^2.88.0",
+    "twig": "^1.13.0",
+    "uniqid": "^5.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "sass": "sass --watch ressources/scss:public/css"
+  },
+  "author": "Florian CORDIER",
+  "license": "ISC"
+}
