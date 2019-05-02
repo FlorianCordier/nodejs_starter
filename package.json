@@ -17,5 +17,5 @@
     "sass": "sass --watch ressources/scss:public/css"
   },
   "author": "Florian CORDIER",
-  "license": "ISC"
+  "license": "MIT"
 }
